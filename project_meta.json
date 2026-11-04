@@ -1,10 +1,17 @@
 {
-  "seq": 32,
   "title": "Backup Testing and RTO/RPO Validation Framework for SMEs",
-  "slug": "backup-testing-and-rto-rpo-validation-framework-for-sme",
+  "old_slug": "backup-testing-and-rto-rpo-validation-framework-for-sme",
+  "slug": "backup-rto-rpo-validation",
   "folder": "Backup_Testing_And_Rto_Rpo_Validation_Framework",
   "kind": "resilience",
-  "body_words": 239,
+  "body_words": 312,
+  "source": "SCI700",
   "project_id": "Project 28",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
